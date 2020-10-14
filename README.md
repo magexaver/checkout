@@ -8,7 +8,4 @@ Example:
   
  It is very interesting and simple to create discount rules.
  You can create rules for the total price of the basket, as well as for the number of certain items, or both.
- {
-  value: { 60  => 10 },
-  volume: { '001' => [2 => 8.5] }
- }
+ # { value: { 60  => 10 }, volume: { '001' => [2 => 8.5] } }
